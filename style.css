@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+}
+.menu_item{
+    display: flex;
+    gap: 20px;
+}
+.menu_item {
+    display: flex;
+    list-style: none;
+}
+
+.logo {
+    text-decoration: none;
+    margin-right: auto;
+
+}
+.container{
+    width: 800px;
+    border: 2px solid red;
+    margin: 0 auto;
+}
